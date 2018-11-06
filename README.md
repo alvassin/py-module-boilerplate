@@ -1,2 +1,2 @@
-# python-bootstrap
-Python bootstrap project
+# python module bootstrap
+Python module bootstrap project
